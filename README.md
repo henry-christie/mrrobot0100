@@ -1,6 +1,10 @@
-Hello,
-I am MrRobot0100, a full stack developer working for Roblox communities. Whether it be external (Discord Bots, Websites) or internal (Community, Experience(s)).
+👋 Hey There! I'm Henry.
+💼 I'm the Managing Director and CEO of LeagueMatrix!
 
-I'm currently working on a website and learning more on servers and networking. So for the meantime any commisions are **closed**!
+💻 I can currently code frontend work in NextJS, and JavaScript.
+🌱 I am learning to code backend systems in TypeScript.
 
-Have a nice day!
+⛔️ I do not accept commissions as I am working hard on projects!
+👋 Goodbye!
+
+❤️ Made in Britain.
